@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FAQ-Accordion/static/css/main.2f98a2ea.css",
+    "main.js": "/FAQ-Accordion/static/js/main.e3b46069.js",
+    "static/js/787.f2b2be52.chunk.js": "/FAQ-Accordion/static/js/787.f2b2be52.chunk.js",
+    "index.html": "/FAQ-Accordion/index.html",
+    "main.2f98a2ea.css.map": "/FAQ-Accordion/static/css/main.2f98a2ea.css.map",
+    "main.e3b46069.js.map": "/FAQ-Accordion/static/js/main.e3b46069.js.map",
+    "787.f2b2be52.chunk.js.map": "/FAQ-Accordion/static/js/787.f2b2be52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f98a2ea.css",
+    "static/js/main.e3b46069.js"
+  ]
+}
